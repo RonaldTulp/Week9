@@ -1,4 +1,4 @@
-﻿string folderPath = @"D:\skoola sittanen\progremine\ErinevadSalvestamised";
+﻿string folderPath = @"/";
 string fileName = "shoppinglist.txt";
 string filePath = Path.Combine(folderPath, fileName);
 List<string> myShoppingList = new List<string>();
